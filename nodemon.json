@@ -1,0 +1,8 @@
+{
+  "env": {
+    "SERVER_PORT": "3002",
+    "MONGO_HOST": "mongodb://localhost:27017/",
+    "MONGO_DATABASE": "shop-db-products",
+    "JWT_PRIVATE_KEY": "AuthSvc_SecretK"
+  }
+}
